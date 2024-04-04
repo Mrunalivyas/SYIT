@@ -1,2 +1,2 @@
-# SYIT
+# Mrunali
 DAA assignment
